@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello GitHub!
+"Talk is cheap, show me the code"
